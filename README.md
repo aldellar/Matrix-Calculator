@@ -1,6 +1,5 @@
-#  Programming Assignment 4
+#  Matrix Calculator
 #  Andrew Dell'Aringa
-#  2082835
 #  Winter '24
 Matrix.c contains more ADT's and declarations of fucntions
 List.c conatins the function definitions and listOBJ and nodeOBJ ADT's
